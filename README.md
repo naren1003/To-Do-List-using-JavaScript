@@ -23,9 +23,3 @@ To get a local copy up and running, follow these simple steps:
 
 - A web browser (e.g., Chrome, Firefox, Safari)
 
-### Installation
-
-1. Clone the repository or download the ZIP file.
-
-   ```bash
-   git clone https://github.com/yourusername/todo-list.git
